@@ -10,3 +10,4 @@
 + Hello from my forked repo! (creating conflict)
 - Hello from the original repo!
 + Hello from my forked repo! (creating conflict)
+Hello from the original repo and trying to create the conflict.
